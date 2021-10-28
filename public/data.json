@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Engine Repairing",
+        "price": "500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Battery Serviceing",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Full-Car-Serviceing",
+        "price": "2000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Engine Oil Serviceing",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Tire Serviceing",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Break Repairing",
+        "price": "250",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
+    }
+]
